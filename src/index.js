@@ -1,4 +1,4 @@
-/* import _ from 'lodash';
+import _ from 'lodash';
 
 function component() {
     const element = document.createElement('div');
@@ -9,9 +9,9 @@ function component() {
     return element;
   }
   
-  document.body.appendChild(component()); */
+  document.body.appendChild(component());
 
-// import your function
+/* // import your function
 import myName from './myName';
 
 function component() {
@@ -22,4 +22,4 @@ function component() {
   return element;
 }
 
-document.body.appendChild(component());
+document.body.appendChild(component()); */
